@@ -1,3 +1,4 @@
 inicio
 escriba"hola mundo";
+esciba "otro mundo";
 fin
